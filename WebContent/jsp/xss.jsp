@@ -8,7 +8,7 @@
 </head>
 <body>
 <form action="index.jsp">
-<h1><u>XSS Demo1 - Without Static scan</u></h1>
+<h1><u>XSS Demo2 - With Static scan</u></h1>
 <%
 String name = request.getParameter("name");
 %>
