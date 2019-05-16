@@ -8,7 +8,7 @@
 </head>
 <body>
 <form action="/XSSDemo1/firstServlet" method="get">
-<h1><u>XSS Demo1 - Without static scan</u></h1>
+<h1><u>XSS Demo2 - With static scan</u></h1>
 Name : <input type="text" name="myName"></input>
 <br><br><input type="submit" value="Submit" /> 
 </form>
